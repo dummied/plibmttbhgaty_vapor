@@ -1,0 +1,8 @@
+{
+    "host": "localhost",
+    "user": "vapor",
+    "password": "password",
+    "database": "plibmttbhgaty_vapor",
+    "port": "3306",
+    "encoding": "utf8"
+}
